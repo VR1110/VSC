@@ -2,8 +2,15 @@ header {
   background-color: aquamarine;
 }
 
+h1 {
+  color: aqua;
+}
+
 body {
   font-size: 20;
+}
+body h1 {
+  color: aqua;
 }
 body div {
   font-size: 10;
