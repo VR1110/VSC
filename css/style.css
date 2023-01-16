@@ -1,2 +1,10 @@
-body { font-size: 20;}
-body div {font-size: 10;}
+header {
+  background-color: aquamarine;
+}
+
+body {
+  font-size: 20;
+}
+body div {
+  font-size: 10;
+}
